@@ -1,0 +1,22 @@
+It_Takes_Two:
+  Game: true
+  Display: It Takes Two
+  Internal_ID: It_Takes_Two
+  Description:
+  - "Embarque na jornada mais maluca da sua vida em It Takes Two, uma aventura de plataforma inovadora criada exclusivamente para o jogo co-op. Convide um amigo ou amiga para se juntar de graça com o Passe de Amigo* e trabalhem juntos em uma variedade de desafios deliciosamente perturbadores. Jogue no papel do conflituoso casal Cody e May, dois humanos transformados em bonecos por um feitiço. Juntos, presos em um mundo fantástico onde o imprevisível está sempre à espreita, são obrigados a trabalhar para salvar seu relacionamento conturbado."
+  Store:
+    Steam: 
+      Price: 199.00
+      Link: "https://store.steampowered.com/app/1426210/It_Takes_Two/?l=brazilian"
+    Playstation:
+      Price: 198.90
+      Link: "https://store.playstation.com/pt-br/product/UP0006-PPSA02342_00-ITTAKESTWORETAIL"
+    XBOX:
+      Price: 199.00
+      Link: "https://www.xbox.com/pt-BR/games/store/it-takes-two-versao-digital/9NXVC0482QS5"
+  Tags:
+  - "Cooperativo"
+  - "Aventura"
+  - "Tela Dividida"
+  - "Multijogador"
+  - "Comovente"

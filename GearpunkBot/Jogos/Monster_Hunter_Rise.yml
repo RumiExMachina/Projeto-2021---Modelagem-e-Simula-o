@@ -1,0 +1,19 @@
+Monster_Hunter_Rise:
+  Game: true
+  Display: Monster Hunter Rise
+  Internal_ID: Monster_Hunter_Rise
+  Description:
+  - "Encare o desafio e junte-se à caça! Em Monster Hunter Rise, o capítulo mais recente da premiada e bem-sucedida série Monster Hunter, você vai se tornar um caçador, explorar mapas novos e usar diversas armas para derrotar monstros assustadores como parte de uma nova história."
+  Store:
+    Steam: 
+      Price: 179.99
+      Link: "https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/"
+    Nintendo:
+      Price: 249.90
+      Link: "https://www.nintendo.com/pt_BR/games/detail/monster-hunter-rise-switch/"
+  Tags:
+  - "Ação"
+  - "Caça"
+  - "Dragão"
+  - "Cooperativo"
+  - "Multijogador"

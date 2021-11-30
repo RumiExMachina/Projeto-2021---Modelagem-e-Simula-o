@@ -1,0 +1,24 @@
+Rainbow_Six:
+  Game: true
+  Display: Rainbow Six
+  Internal_ID: Rainbow_Six
+  Description:
+  - "Domine a arte da destruição e do uso de gadgets em Tom Clancy’s Rainbow Six Siege. Enfrente combates intensos em curta distância, alta letalidade, decisões táticas, jogabilidade em equipe e ação explosiva a todo momento. Vivencie uma nova era de tiroteios ferozes e estratégia de alto nível nascida do grande legado dos jogos de Tom Clancy's Rainbow Six passados."
+  Store:
+    Epic:
+      Price: 59.99 
+      link: "https://www.epicgames.com/store/pt-BR/p/rainbow-six-siege"
+    Steam: 
+      Price: 59.99
+      Link: "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/"
+    Playstation:
+      Price: 149.90
+      Link: "https://store.playstation.com/pt-br/product/UP0001-PPSA01396_00-RB6SIEGESPDELU05"
+    XBOX:
+      Price: 149.95
+      Link: "https://www.xbox.com/pt-BR/games/rainbow-six-siege"
+  Tags:
+  - "Ação"
+  - "Tiro"
+  - "Competitivo"
+  - "Multiplayer"

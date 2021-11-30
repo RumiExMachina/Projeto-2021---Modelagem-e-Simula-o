@@ -1,0 +1,20 @@
+Sekiro:
+  Game: true
+  Display: Sekiro
+  Internal_ID: Sekiro
+  Description:
+  - "Em Sekiro™: Shadows Die Twice, você é o 'lobo de um braço só', um guerreiro desfigurado e desgraçado, resgatado da beira da morte. Jurado para proteger um jovem lorde descendente de uma antiga linhagem de sangue, você vira alvo de muitos inimigos perigosos, incluindo o temido clã Ashina."
+  Store:
+    Steam: 
+      Price: 199.99
+      Link: "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/"
+    Playstation:
+      Price: 274.50
+      Link: "https://store.playstation.com/pt-br/product/UP0002-CUSA12047_00-SEKIROGAME000001"
+    XBOX:
+      Price: 199.00
+      Link: "https://www.xbox.com/pt-BR/games/sekiro-shadows-die-twice"
+  Tags:
+  - "Dificil"
+  - "Ação"
+  - "Um Jogador"

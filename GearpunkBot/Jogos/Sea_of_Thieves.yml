@@ -1,0 +1,18 @@
+Sea_of_Thieves:
+  Game: true
+  Display: Sea of Thieves
+  Internal_ID: Sea_of_Thieves
+  Description:
+  - "Sea of Thieves oferece a experiênciaessencial de pirataria. De navegação e combateatéexploração e pilhagem, vocêtemtudo o que precisa para viverumavida de pirata e tornar-se umalenda."
+  Store:
+    Steam: 
+      Price: 89.99
+      Link: "https://store.steampowered.com/app/1172620/Sea_of_Thieves/"
+    XBOX:
+      Price: 199.95
+      Link: "https://www.xbox.com/pt-BR/games/sea-of-thieves"
+  Tags:
+  - "Aventura"
+  - "Multijogador"
+  - "Piratas"
+  - "Mundo Aberto"

@@ -1,0 +1,21 @@
+Crash_Bandicoot_4:
+  Game: true
+  Display: Crash Bandicoot 4
+  Internal_ID: Crash_Bandicoot_4
+  Description:
+  - "Já estava mais do que na hora de ter um novo Crash Bandicoot™! Embarque em uma aventura atemporal com seus marsupiais favoritos."
+  Store: 
+    Playstation:
+      Price: 249.90
+      Link: "https://store.playstation.com/pt-br/product/UP0002-PPSA02432_00-CB4THEGAME000001"
+    XBOX:
+      Price: 250.00
+      Link: "https://www.xbox.com/pt-BR/games/crash-bandicoot-4"
+    Nintendo:
+      Price: 199.99
+      Link: "https://www.nintendo.com/pt_BR/games/detail/crash-bandicoot-4-its-about-time-switch/"
+  Tags:
+  - "Ação"
+  - "Aventura"
+  - "Diversão"
+  - "Para Crianças"

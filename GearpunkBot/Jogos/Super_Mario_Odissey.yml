@@ -1,0 +1,15 @@
+Super_Mario_Odissey:
+  Game: true
+  Display: Super Mario Odissey
+  Internal_ID: Super_Mario_Odissey
+  Description:
+  - "Explore lugares incríveis longe do Reino Cogumelo com o Mario e o novo aliado Cappy em uma imensa aventura 3D ao redor do mundo"
+  Store:
+    Nintendo:
+      Price: 299.00
+      Link: "https://www.nintendo.com/pt_BR/games/detail/super-mario-odyssey-switch/"
+  Tags:
+  - "Plataforma"
+  - "Ação"
+  - "Aventura"
+  - "Diversão"

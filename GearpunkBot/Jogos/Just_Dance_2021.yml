@@ -1,0 +1,17 @@
+Just_Dance_2021:
+  Game: true
+  Display: Just Dance 2021
+  Internal_ID: Just_Dance_2021
+  Description:
+  - "Just Dance® 2021 é o melhor jogo de dança, com 40 novas faixas de sucesso no topo das paradas como 'Rain On Me' de Lady Gaga & Ariana Grande, 'Kick It' de NCT 127 e 'Ice Cream' de BLACKPINK x Selena Gomez. Proporcione uma festa dançante para seus amigos e familiares!"
+  Store:
+    Playstation:
+      Price: 229.90
+      Link: "https://store.playstation.com/pt-br/product/UP0001-CUSA19596_00-JD2021PS4SIEA000"
+    Nintendo:
+      Price: 229.25
+      Link: "https://www.nintendo.com/pt_BR/games/detail/just-dance-2021-switch/"
+  Tags:
+  - "Música"
+  - "Ritmo"
+  - "Diversão"

@@ -1,0 +1,26 @@
+GTA_V:
+  Game: true
+  Display: GTA V
+  Internal_ID: GTA_V
+  Description:
+  - "Quando um malandro de rua, um ladrão de bancos aposentado e um psicopata aterrorizante se envolvem com alguns dos criminosos mais assustadores e loucos do submundo, o governo dos EUA e a indústria do entretenimento, eles devem realizar golpes ousados para sobreviver nessa cidade implacável onde não podem confiar em ninguém, nem mesmo um no outro."
+  Store:
+    Epic:
+      Price: 66.99
+      Link: "https://www.epicgames.com/store/pt-BR/p/grand-theft-auto-v"
+    Steam: 
+      Price: 66.66
+      Link: "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/"
+    Playstation:
+      Price: 159.90
+      Link: "https://store.playstation.com/pt-br/product/UP1004-CUSA00419_00-PREMIUMPACKOG001"
+    XBOX:
+      Price: 249.95
+      Link: "https://www.xbox.com/pt-br/games/store/grand-theft-auto-v/bpj686w6s0nh"
+  Tags:
+  - "Mundo Aberto"
+  - "Ação"
+  - "Crime"
+  - "Tiro"
+  - "Multiplayer"
+  - "corrida"

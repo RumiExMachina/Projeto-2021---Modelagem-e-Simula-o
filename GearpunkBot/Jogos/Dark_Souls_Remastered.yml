@@ -1,0 +1,25 @@
+Dark_Souls_Remastered:
+  Game: true
+  Display: Dark Souls Remastered
+  Internal_ID: Dark_Souls_Remastered
+  Description:
+  - "Universo profundo e sombrio. Mergulhe num universo de fantasia épico e sombrio afetado pela Maldição. Explore seu design intricado de mundo, cheio de passagens secretas, calabouços e segredos."
+  Store:
+    Steam: 
+      Price: 129.90
+      Link: "https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/"
+    Playstation:
+      Price: 179.90
+      Link: "https://store.playstation.com/pt-br/product/UP0700-CUSA08692_00-DARKSOULSHD00000"
+    XBOX:
+      Price: 179.90
+      Link: "https://www.xbox.com/pt-BR/games/store/dark-souls-remastered/BS18VCF4NLQ9"
+    Nintendo:
+      Price: 199.00
+      Link: "https://www.nintendo.com/pt_BR/games/detail/dark-souls-remastered-switch/"
+  Tags:
+  - "Ação"
+  - "Fantasia Sombria"
+  - "Aventura"
+  - "Exploração"
+  - "Boa Trama"

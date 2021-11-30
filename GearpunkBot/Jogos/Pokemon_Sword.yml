@@ -1,0 +1,13 @@
+Pokemon_Sword:
+  Game: true
+  Display: Pokemon Sword
+  Internal_ID: Pokemon_Sword
+  Description:
+  - "Uma nova geração Pokémon está chegando para o console Nintendo Switch™. Comece a sua aventura como Treinador Pokémon escolhendo um desses três novos parceiros Pokémon: Grookey, Scorbunny ou Sobble."
+  Store:
+    Nintendo:
+      Price: 299.00
+      Link: "https://www.nintendo.com/pt_BR/games/detail/pokemon-sword-switch/"
+  Tags:
+  - "Aventura"
+  - "RPG"

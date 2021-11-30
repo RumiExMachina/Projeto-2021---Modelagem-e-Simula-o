@@ -1,0 +1,25 @@
+Hades:
+  Game: true
+  Display: Hades
+  Internal_ID: Hades
+  Description:
+  - "Na pele do imortal Príncipe do Submundo, você usará os poderes e as armas míticas do Olimpo para se libertar das garras do deus dos mortos, enquanto se fortalece e descobre mais sobre a história a cada tentativa única de fuga."
+  Store:
+    Epic:
+      Price: 47.49
+      Link: "https://www.epicgames.com/store/pt-BR/p/hades"
+    Steam: 
+      Price: 47.49
+      Link: "https://store.steampowered.com/app/1145360/Hades/"
+    Playstation:
+      Price: 124.50
+      Link: "https://store.playstation.com/pt-br/product/UP2125-PPSA03355_00-3466019145463410"
+    XBOX:
+      Price: 92,42
+      Link: "https://www.xbox.com/pt-br/games/store/hades/9p8dl6w0jbb8"
+    Nintendo:
+      Price: 92.46
+      Link: "https://www.nintendo.com/pt_BR/games/detail/hades-switch/"
+  Tags:
+  - "Ação"
+  - "RPG"

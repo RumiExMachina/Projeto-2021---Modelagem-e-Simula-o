@@ -1,0 +1,49 @@
+Games:
+  Animal_Crossing:
+    Enabled: 'true'
+  Crash_Bandicoot_4:
+    Enabled: 'true'
+  Bioshock_Infinite:
+    Enabled: 'true' 
+  Dark_Souls_Remastered:
+    Enabled: 'true'
+  Final_Fantasy_XV:
+    Enabled: 'true'
+  Frostpunk:
+    Enabled: 'true'
+  GTA_V:
+    Enabled: 'true'
+  Hades:
+    Enabled: 'true'
+  It_Takes_Two:
+    Enabled: 'true'
+  Just_Dance_2021:
+    Enabled: 'true'
+  Luigi_Mansion_3:
+    Enabled: 'true'
+  Monster_Hunter_Rise:
+    Enabled: 'true'
+  NFS_Hot_Pursuit_Remastered:
+    Enabled: 'true'
+  Pokemon_Sword:
+    Enabled: 'true'
+  Rainbow_Six:
+    Enabled: 'true'
+  Red_Dead_Redemption_2:
+    Enabled: 'true'
+  Sea_of_Thieves:
+    Enabled: 'true'
+  Sekiro:
+    Enabled: 'true'
+  Street_Fighter_V:
+    Enabled: 'true'
+  Super_Mario_Odissey:
+    Enabled: 'true'
+  The_Forest:
+    Enabled: 'true'
+  The_Witcher_3:
+    Enabled: 'true'
+  UNO:
+    Enabled: 'true'
+  Zelda_BOWT:
+    Enabled: 'true'

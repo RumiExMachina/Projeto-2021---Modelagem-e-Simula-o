@@ -1,0 +1,24 @@
+NFS_Hot_Pursuit_Remastered:
+  Game: true
+  Display: NFS Hot Pursuit Remastered
+  Internal_ID: NFS_Hot_Pursuit_Remastered
+  Description:
+  - "Sinta a sensação extrema de velocidade, tanto como fora da lei quanto como policial, nos carros mais potentes do mundo. Supere a perseguição ou enfrente infratores com o armamento tático à sua disposição em uma experiência competitiva de corrida cheia de energia."
+  Store:
+    Steam: 
+      Price: 149.00
+      Link: "https://store.steampowered.com/app/1328660/Need_for_Speed_Hot_Pursuit_Remastered/"
+    Playstation:
+      Price: 198.90
+      Link: "https://store.playstation.com/pt-br/product/UP0006-CUSA23264_00-NEEDFORSPEEDHPR0"
+    XBOX:
+      Price: 199.00
+      Link: "https://www.xbox.com/pt-BR/games/store/need-for-speed-hot-pursuit-remastered/9NMBJQ0265ZK"
+    Nintendo:
+      Price: 199.00
+      Link: "https://www.nintendo.com/pt_BR/games/detail/need-for-speed-hot-pursuit-remastered-switch/"
+  Tags:
+  - "Corrida"
+  - "Corrida com Combate"
+  - "Esportes"
+  - "Direção"

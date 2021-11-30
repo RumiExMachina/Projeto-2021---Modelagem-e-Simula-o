@@ -1,0 +1,13 @@
+Animal_Crossing:
+  Game: true
+  Display: Animal Crossing
+  Internal_ID: Animal_Crossing
+  Description:
+  - "Escape para uma ilha deserta e crie o seu próprio paraíso enquanto explora, cria e customiza em Animal Crossing: New Horizons. A sua ilha traz uma variedade incrível de recursos naturais que podem ser usados para criar de tudo, desde objetos para o seu conforto a ferramentas. Você pode caçar insetos ao amanhecer, decorar o seu paraíso durante o dia ou desfrutar do pôr do sol na praia enquanto pesca no oceano. A hora do dia e as estações do ano correspondem à realidade, então aproveite a oportunidade de conferir a sua ilha a cada dia para encontrar novas surpresas durante o ano todo."
+  Store:
+    Nintendo:
+      Price: 299.00
+      Link: "https://www.nintendo.com/pt_BR/games/detail/animal-crossing-new-horizons-switch/"
+  Tags:
+  - "Simulação"
+  - "RPG"

@@ -1,0 +1,18 @@
+Street_Fighter_V:
+  Game: true
+  Display: Street Fighter V
+  Internal_ID: Street_Fighter_V
+  Description:
+  - "Experimente os intensos combates um contra um de Street Fighter® V! Escolha entre 16 personagens icônicos, cada um com sua história pessoa e desafios de treinamento únicos, e lute contra amigos, online ou offline, com uma robusta variedade de opções de partidas."
+  Store:
+    Steam: 
+      Price: 39.99
+      Link: "https://store.steampowered.com/app/310950/Street_Fighter_V/"
+    Playstation:
+      Price: 71.50
+      Link: "https://store.playstation.com/pt-br/product/UP0102-CUSA01200_00-SF5FULLGAME00000"
+  Tags:
+  - "Luta 2D"
+  - "Ação"
+  - "Luta"
+  - "Competitivo"

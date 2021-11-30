@@ -1,0 +1,26 @@
+Frostpunk:
+  Game: true
+  Display: Frostpunk
+  Internal_ID: Frostpunk
+  Description:
+  - "Frostpunk é o primeiro jogo de sobrevivência em sociedade. Como o governante da última cidade na Terra, é seu dever administrar tanto seus cidadãos quanto sua infraestrutura. Que decisões você irá tomar para garantir a sobrevivência de sua sociedade?"
+  Store:
+    Epic:
+      Price: 56.99
+      Link: "https://www.epicgames.com/store/pt-BR/p/frostpunk"
+    Steam: 
+      Price: 57.99
+      Link: "https://store.steampowered.com/app/323190/Frostpunk/"
+    Playstation:
+      Price: 149.50
+      Link: "https://store.playstation.com/pt-br/product/UP4361-CUSA15716_00-FROSTPUNKGAME000"
+    XBOX:
+      Price: 112.45
+      Link: "https://www.xbox.com/pt-BR/games/store/frostpunk-console-edition/9NP539LHJD8S"
+  Tags:
+  - "Sobrevivência"
+  - "Steampunk"
+  - "Frio"
+  - "Cidades"
+  - "Estratégia"
+  - "Simulação"

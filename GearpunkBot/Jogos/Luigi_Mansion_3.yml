@@ -1,0 +1,13 @@
+Luigi_Mansion_3:
+  Game: true
+  Display: Luigi Mansion 3
+  Internal_ID: Luigi_Mansion_3
+  Description:
+  - "Luigi foi convidado a se hospedar no suntuoso hotel Last Resort. Mas com o sumiço de Mario e seus amigos, nosso herói vestido de verde terá de superar seus medos para poder salvá-los! Golpeie, sopre e aspire os fantasmas com a novíssima Poltergust G-00, e junte suas forças com Gooigi para decifrar engenhocas e derrotar chefões endiabrados em cada piso temático deste hotel"
+  Store:
+    Nintendo:
+      Price: 299.00
+      Link: "https://www.nintendo.com/pt_BR/games/detail/luigis-mansion-3-switch/"
+  Tags:
+  - "Aventura"
+  - "Ação"

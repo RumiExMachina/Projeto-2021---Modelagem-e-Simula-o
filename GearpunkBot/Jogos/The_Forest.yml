@@ -1,0 +1,16 @@
+The_Forest:
+  Game: true
+  Display: The Forest
+  Internal_ID: The_Forest
+  Description:
+  - "Como o único sobrevivente de um acidente de avião de passageiros, você se encontra em uma floresta misteriosa lutando para se manter vivo contra uma sociedade de mutantes canibais."
+  Store:
+    Steam: 
+      Price: 37.99
+      Link: "https://store.steampowered.com/app/242760/The_Forest/"
+    Playstation:
+      Price: 104.90
+      Link: "https://store.playstation.com/pt-br/product/UP0240-CUSA10518_00-THEFOREST0000000"
+  Tags:
+  - "Sobrevivência"
+  - "Mundo Aberto"

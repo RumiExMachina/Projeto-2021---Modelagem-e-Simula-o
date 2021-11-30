@@ -1,0 +1,14 @@
+Zelda_BOWT:
+  Game: true
+  Display: Zelda Breath of the Wild
+  Internal_ID: Zelda_BOWT
+  Description:
+  - "Esqueça tudo que você sabe sobre os jogos da série The Legend of Zelda. Entre em um mundo de descobertas, exploração e aventura em The Legend of Zelda: Breath of the Wild, o novo jogo da famosa série que veio para romper barreiras"
+  Store:
+    Nintendo:
+      Price: 299.00
+      Link: "https://www.nintendo.com/pt_BR/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/"
+  Tags:
+  - "Ação"
+  - "Aventura"
+  - "RPG"

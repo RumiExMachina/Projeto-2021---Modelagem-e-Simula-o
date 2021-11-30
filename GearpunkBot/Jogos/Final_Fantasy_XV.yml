@@ -1,0 +1,23 @@
+Final_Fantasy_XV:
+  Game: true
+  Display: Final Fantasy XV
+  Internal_ID: Final_Fantasy_XV
+  Description:
+  - "Pela primeira vez, os jogadores assumem o controle do maior inimigo de Noctis neste novo episódio de FINAL FANTASY XV! Explore o conto sombrio do salvador desprezado Ardyn Lucis Caelum e desvende os segredos que cercam seu misterioso passado."
+  Store:
+    Steam: 
+      Price: 125.00
+      Link: "https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/"
+    Playstation:
+      Price: 132.90
+      Link: "https://store.playstation.com/pt-br/product/UP0082-CUSA01633_00-FFXVROYALEDITION"
+    XBOX:
+      Price: 132.45
+      Link: "https://www.xbox.com/pt-br/games/store/final-fantasy-xv/c45d79qvkztp"
+  Tags:
+  - "RPG"
+  - "Mundo Aberto"
+  - "Fantasia"
+  - "Aventura"
+  - "ação"
+  - "Boa Trama"

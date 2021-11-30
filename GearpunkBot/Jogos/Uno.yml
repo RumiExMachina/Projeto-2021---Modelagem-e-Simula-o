@@ -1,0 +1,27 @@
+UNO:
+  Game: true
+  Display: UNO
+  Internal_ID: UNO
+  Description:
+  - "UNO, um dos jogos clássicos mais icónicos de sempre e que todos conhecemos e adoramos, regressa com uma série de novidades emocionantes como o suporte para conversação por vídeo e um novo sistema de temas que traz ainda mais diversão!"
+  Store:
+    Epic:
+      Price: 29.99
+      Link: "https://www.epicgames.com/store/pt-BR/p/uno"
+    Steam: 
+      Price: 29.99
+      Link: "https://store.steampowered.com/app/470220/UNO/?l=portuguese"
+    Playstation:
+      Price: 41.50
+      Link: "https://store.playstation.com/pt-br/product/UP0001-CUSA04071_00-UBISOFTUNOFULL00"
+    XBOX:
+      Price: 19.00
+      Link: "https://www.xbox.com/pt-BR/games/store/uno/BNSDHDK45KBR/0001"
+    Nintendo:
+      Price: 99.90
+      Link: "https://www.nintendo.com/pt_BR/games/detail/uno-switch/"
+  Tags:
+  - "Jogo de Cartas"
+  - "Multijogador"
+  - "Jogos de Mesa"
+  - "Multiplayer"

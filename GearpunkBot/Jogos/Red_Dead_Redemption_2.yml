@@ -1,0 +1,23 @@
+Red_Dead_Redemption_2:
+  Game: true
+  Display: Red Dead Redemption 2
+  Internal_ID: Red_Dead_Redemption_2
+  Description:
+  - "Arthur Morgan e a gangue Van der Linde são bandidos em fuga. Com agentes federais e os melhores caçadores de recompensas no seu encalço, a gangue precisa roubar, assaltar e lutar para sobreviver no impiedoso coração dos Estados Unidos"
+  Store:
+    Epic:
+      Price: 239.00
+      link: "https://www.epicgames.com/store/pt-BR/p/red-dead-redemption-2"
+    Steam: 
+      Price: 239.00
+      Link: "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
+    Playstation:
+      Price: 99.56
+      Link: "https://store.playstation.com/pt-br/product/UP1004-CUSA03041_00-REDEMPTIONFULL02"
+    XBOX:
+      Price: 99.98
+      Link: "https://www.xbox.com/pt-BR/games/red-dead-redemption-2"
+  Tags:
+  - "Mundo Aberto"
+  - "Aventura"
+  - "Velho Oeste"
