@@ -46,6 +46,9 @@ command_events_game:
             - define price_xbox <yaml[gear_yaml_game_<[game]>].read[<[game]>.Store.XBOX.Price].if_null[<[price_null]>]>
             - define price_nintendo <yaml[gear_yaml_game_<[game]>].read[<[game]>.Store.Nintendo.Price].if_null[<[price_null]>]>
 
+            - define list_average <list>
+            - define list_average <[list].include[<[price_steam]>|<[price_epic]>|<[price_playstation]>|<[price_xbox]>|<[price_nintendo]>]>
+
             - define link_steam <yaml[gear_yaml_game_<[game]>].read[<[game]>.Store.Steam.Link].if_null[<[price_null]>]>
             - define link_epic <yaml[gear_yaml_game_<[game]>].read[<[game]>.Store.Epic.Link].if_null[<[price_null]>]>
             - define link_playstation <yaml[gear_yaml_game_<[game]>].read[<[game]>.Store.Playstation.Link].if_null[<[price_null]>]>
@@ -63,6 +66,7 @@ command_events_game:
             - define game_embed <[game_embed].add_field[Playstation:].value[Preço:<&sp>R$<[price_playstation]><&nl>Loja:<&sp><[link_playstation]>]>
             - define game_embed <[game_embed].add_field[XBOX:].value[Preço:<&sp>R$<[price_xbox]><&nl>Loja:<&sp><[link_xbox]>]>
             - define game_embed <[game_embed].add_field[Nintendo:].value[Preço:<&sp>R$<[price_nintendo]><&nl>Loja:<&sp><[link_nintendo]>]>
+            - define game_embed <[game_embed].add_field[Média<&sp>de<&sp>Preço:].value[Valor:<&sp>R$<[list_average].average>]>
             - define game_embed <[game_embed].add_field[Tags:].value[<[list_tags].comma_separated>]>
             - ~discordinteraction reply interaction:<context.interaction> <[game_embed]>
 
